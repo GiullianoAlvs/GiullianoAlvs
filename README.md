@@ -1,7 +1,10 @@
 
 ### Olá! Eu sou o Giulliano Souza! 👋
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giullianoalvs/)
+<div> 
+ 	</a> 
+  <a href = "mailto:giullianoalvs@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://https://www.linkedin.com/in/giullianoalvs/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
 
 ![Giulliano GitHub stats](https://github-readme-stats.vercel.app/api?username=GiullianoAlvs&show_icons=true&theme=dracula)
 
